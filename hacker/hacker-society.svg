@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="695"
+   height="132.08"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46+devel"
+   version="1.0"
+   sodipodi:docname="hacker-society.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/josh/Desktop/hacker/hacker-society.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5"><inkscape:perspective
+   sodipodi:type="inkscape:persp3d"
+   inkscape:vp_x="0 : 66.040001 : 1"
+   inkscape:vp_y="0 : 1000 : 0"
+   inkscape:vp_z="695 : 66.040001 : 1"
+   inkscape:persp3d-origin="347.5 : 44.026667 : 1"
+   id="perspective34" />
+<clipPath
+   id="clipPath2322"
+   clipPathUnits="userSpaceOnUse">
+  <path
+     id="path2324"
+     d="M 0,612 L 792,612 L 792,0 L 0,0 L 0,612 z" />
+</clipPath>
+
+
+
+
+
+&gt;
+    <inkscape:perspective
+   id="perspective2744"
+   inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+   inkscape:vp_z="1 : 0.5 : 1"
+   inkscape:vp_y="0 : 1000 : 0"
+   inkscape:vp_x="0 : 0.5 : 1"
+   sodipodi:type="inkscape:persp3d" />
+<filter
+   id="filter3580"
+   inkscape:label="filter1">
+  <feOffset
+     dx="0"
+     dy="0"
+     id="feOffset3582" />
+  <feColorMatrix
+     id="feColorMatrix3586"
+     type="matrix"
+     values="1 0 0 0 1 0 1 0 0 1 0 0 1 0 1 0 0 0 1 0 " />
+  <feGaussianBlur
+     stdDeviation="2"
+     id="feGaussianBlur3588"
+     result="result1" />
+  <feComposite
+     id="feComposite3592"
+     in="SourceGraphic"
+     in2="result1" />
+</filter>
+</defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#333333"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="375.40245"
+     inkscape:cy="61.226722"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     width="675px"
+     height="990px"
+     inkscape:window-width="1178"
+     inkscape:window-height="802"
+     inkscape:window-x="565"
+     inkscape:window-y="127"
+     showgrid="false" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-42.120309,-246.44073)">
+    <path
+       d="M 169.945,358.4887 L 604.8275,358.4887"
+       style="fill:#596670;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2396" />
+    <g
+       id="g3566"
+       style="filter:url(#filter3580)">
+      <path
+         id="path2398"
+         style="fill:none;stroke:#000000;stroke-width:1.25000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 169.945,358.4887 L 604.8275,358.4887" />
+      <text
+         xml:space="preserve"
+         style="font-size:35.2033844px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Day Roman"
+         x="167.81903"
+         y="350.78659"
+         id="text2618"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan2620"
+           x="167.81903"
+           y="350.78659"
+           style="font-size:35.2033844px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:7.84137678;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Day Roman">HACKER SOCIETY</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:34.85942840999999959px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Day Roman"
+         x="654.80859"
+         y="358.68732"
+         id="text2622"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan2624"
+           x="654.80859"
+           y="358.68732">2007</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text2351"
+         y="359.12289"
+         x="612.80853"
+         style="font-size:18.44021988000000079px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Day Roman"
+         xml:space="preserve"><tspan
+           y="359.12289"
+           x="612.80853"
+           id="tspan2353"
+           sodipodi:role="line">EST.</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text2347"
+         y="314.66956"
+         x="166.18626"
+         style="font-size:42.79226303px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Day Roman"
+         xml:space="preserve"><tspan
+           dx="0 0 0 0 0 0 -6.9499998"
+           style="font-size:40px"
+           y="314.66956"
+           x="166.18626"
+           id="tspan2349"
+           sodipodi:role="line"><tspan
+   id="tspan2351"
+   style="font-size:56px">C</tspan>ASE <tspan
+   id="tspan2354"
+   style="font-size:56px">W</tspan>ESTERN <tspan
+   id="tspan2356"
+   style="font-size:56px">R</tspan>ESERVE</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     style="display:inline">
+    <g
+       transform="matrix(16.82331,0,0,16.82331,10.841166,10.841167)"
+       id="grid"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1">
+<!-- outside -->      <path
+         style="stroke:#000000;stroke-opacity:1;fill:#ffffff;fill-opacity:1"
+         d="M 0,0 6,0 6,6 0,6 0,0 z"
+         id="path2453" />
+<!-- inside -->      <path
+         style="stroke:#000000;stroke-opacity:1"
+         d="M 0,2 6,2"
+         id="path2455" />
+      <path
+         style="stroke:#000000;stroke-opacity:1"
+         d="M 0,4 6,4"
+         id="path2457" />
+      <path
+         style="stroke:#000000;stroke-opacity:1"
+         d="M 2,0 2,6"
+         id="path2459" />
+      <path
+         style="stroke:#000000;stroke-opacity:1"
+         d="M 4,0 4,6"
+         id="path2461" />
+    </g>
+    <g
+       transform="matrix(16.82331,0,0,16.82331,10.841166,10.841167)"
+       id="dots"
+       style="fill:#000000;fill-opacity:1">
+      <ellipse
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.07430167;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:ry="0.69999999"
+         sodipodi:rx="0.69999999"
+         sodipodi:cy="1"
+         sodipodi:cx="3"
+         cx="3"
+         cy="1"
+         rx="0.69999999"
+         ry="0.69999999"
+         id="C1"
+         d="M 3.7,1 C 3.7,1.3864 3.3864,1.7 3,1.7 2.6136,1.7 2.3,1.3864 2.3,1 2.3,0.61360001 2.6136,0.30000001 3,0.30000001 c 0.3864,0 0.7,0.3136 0.7,0.69999999 z" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.07430167;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:ry="0.69999999"
+         sodipodi:rx="0.69999999"
+         sodipodi:cy="3"
+         sodipodi:cx="5"
+         cx="5"
+         cy="3"
+         rx="0.69999999"
+         ry="0.69999999"
+         id="ellipse2465"
+         d="M 5.7,3 C 5.7,3.3864 5.3864,3.7 5,3.7 4.6136,3.7 4.3,3.3864 4.3,3 4.3,2.6136 4.6136,2.3 5,2.3 5.3864,2.3 5.7,2.6136 5.7,3 z" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.07430167;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:ry="0.69999999"
+         sodipodi:rx="0.69999999"
+         sodipodi:cy="5"
+         sodipodi:cx="1"
+         cx="1"
+         cy="5"
+         rx="0.69999999"
+         ry="0.69999999"
+         id="ellipse2467"
+         d="M 1.7,5 C 1.7,5.3864 1.3864,5.7 1,5.7 0.61360001,5.7 0.30000001,5.3864 0.30000001,5 0.30000001,4.6136 0.61360001,4.3 1,4.3 1.3864,4.3 1.7,4.6136 1.7,5 z" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.07430167;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:ry="0.69999999"
+         sodipodi:rx="0.69999999"
+         sodipodi:cy="5"
+         sodipodi:cx="3"
+         cx="3"
+         cy="5"
+         rx="0.69999999"
+         ry="0.69999999"
+         id="ellipse2469"
+         d="M 3.7,5 C 3.7,5.3864 3.3864,5.7 3,5.7 2.6136,5.7 2.3,5.3864 2.3,5 2.3,4.6136 2.6136,4.3 3,4.3 3.3864,4.3 3.7,4.6136 3.7,5 z" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.07430167;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:ry="0.69999999"
+         sodipodi:rx="0.69999999"
+         sodipodi:cy="5"
+         sodipodi:cx="5"
+         cx="5"
+         cy="5"
+         rx="0.69999999"
+         ry="0.69999999"
+         id="ellipse2471"
+         d="M 5.7,5 C 5.7,5.3864 5.3864,5.7 5,5.7 4.6136,5.7 4.3,5.3864 4.3,5 4.3,4.6136 4.6136,4.3 5,4.3 5.3864,4.3 5.7,4.6136 5.7,5 z" />
+    </g>
+  </g>
+</svg>
