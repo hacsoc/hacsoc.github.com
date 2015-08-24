@@ -10,11 +10,10 @@ p {
 }
 div.row a {
   font-weight: 700;
-  color: #cb4b16;
+  color: #465a98;
 }
 div.row a:hover {
-  font-weight: 900;
-  color: #0085a1;
+  color: #567aa8;
 }
 h1,
 h2,
@@ -30,7 +29,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #0085a1;
+  color: #567aa8;
 }
 a img:hover,
 a img:focus {
@@ -103,11 +102,11 @@ hr.small {
   }
   .navbar-custom.is-fixed .navbar-brand:hover,
   .navbar-custom.is-fixed .navbar-brand:focus {
-    color: #0085a1;
+    color: #567aa8;
   }
   .navbar-custom.is-fixed .nav li a:hover,
   .navbar-custom.is-fixed .nav li a:focus {
-    color: #0085a1;
+    color: #567aa8;
   }
   .navbar-custom.is-visible {
     /* if the user changes the scrolling direction, we show the header */
@@ -201,7 +200,7 @@ hr.small {
 .post-preview > a:hover,
 .post-preview > a:focus {
   text-decoration: none;
-  color: #0085a1;
+  color: #567aa8;
 }
 .post-preview > a > .post-title {
   font-size: 30px;
@@ -225,7 +224,7 @@ hr.small {
 }
 .post-preview > .post-meta > a:hover,
 .post-preview > .post-meta > a:focus {
-  color: #0085a1;
+  color: #567aa8;
   text-decoration: underline;
 }
 @media only screen and (min-width: 768px) {
@@ -305,7 +304,7 @@ footer .copyright {
   opacity: 1;
 }
 .floating-label-form-group-with-focus label {
-  color: #0085a1;
+  color: #567aa8;
 }
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #eeeeee;
@@ -325,8 +324,8 @@ form .row:first-child .floating-label-form-group {
 }
 .btn-default:hover,
 .btn-default:focus {
-  background-color: #0085a1;
-  border: 1px solid #0085a1;
+  background-color: #567aa8;
+  border: 1px solid #567aa8;
   color: white;
 }
 .pager {
@@ -346,8 +345,8 @@ form .row:first-child .floating-label-form-group {
 .pager li > a:hover,
 .pager li > a:focus {
   color: white;
-  background-color: #0085a1;
-  border: 1px solid #0085a1;
+  background-color: #567aa8;
+  border: 1px solid #567aa8;
 }
 .pager .disabled > a,
 .pager .disabled > a:hover,
