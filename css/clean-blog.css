@@ -435,3 +435,19 @@ h2 {
   font-family: 'Open Sans';
   font-weight: normal;
 }
+table {
+  width: 100%;
+}
+table,
+tr,
+th,
+td {
+  border-spacing: 5px;
+  border-collapse: collapse;
+  border: 1px solid gray;
+  font-size: 14px;
+}
+td,
+th {
+  padding: 2px 6px;
+}
