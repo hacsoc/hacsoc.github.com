@@ -8,11 +8,11 @@
         {% if page.title %}
         {{ page.title }}
         {% else %}
-        Hacker Society
+        {{ site.title }}
         {% endif %}
         </title>
 
-        <link rel="icon" type="image/png" href="http://hacsoc.org/img/logo.png">
+        <link rel="icon" type="image/png" href="{{ site.icon }}">
 
         {% include style.html %}
         {% include fonts.html %}
