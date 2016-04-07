@@ -1,2 +1,3 @@
 title: Hacker Society
 icon: "img/logo.png"
+exclude: ['README.md', 'Makefile', 'Gemfile.lock', 'Gemfile']
