@@ -1,9 +1,12 @@
 current:
-    - name: Koby Picker
-      email: jkp46@case.edu
-
     - name: Yidi Huang
       email: yxh597@case.edu
+
+    - name: Ramon Correa
+      email: rlc131@case.edu
+
+    - name: Zach Jaffee
+      email: zij@case.edu
 
 emeritus:
     name: Tim Henderson
