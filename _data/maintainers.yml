@@ -7,7 +7,13 @@ current:
 
     - name: Zach Jaffee
       email: zij@case.edu
-
+      
+    - name: Elizabeth Fregoso 
+      email: emf65@case.edu
+      
+    - name: Ben Roytenberg 
+      email: bgr19@case.edu
+      
 emeritus:
     name: Tim Henderson
     email: tah35@case.edu
